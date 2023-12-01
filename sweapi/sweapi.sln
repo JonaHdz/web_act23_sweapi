@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweapi", "sweapi.csproj", "{CD7D285B-65C0-4315-9342-0AE28A2CD8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7D285B-65C0-4315-9342-0AE28A2CD8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7D285B-65C0-4315-9342-0AE28A2CD8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7D285B-65C0-4315-9342-0AE28A2CD8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7D285B-65C0-4315-9342-0AE28A2CD8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E3964F-00CB-4E80-845B-C0332520EA14}
+	EndGlobalSection
+EndGlobal
