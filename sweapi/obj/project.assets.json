@@ -2451,11 +2451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jon10\\Desktop\\Act23\\sweapi\\sweapi.csproj",
+      "projectUniqueName": "C:\\Users\\jon10\\Desktop\\Act23\\web_act23_sweapi\\sweapi\\sweapi.csproj",
       "projectName": "sweapi",
-      "projectPath": "C:\\Users\\jon10\\Desktop\\Act23\\sweapi\\sweapi.csproj",
+      "projectPath": "C:\\Users\\jon10\\Desktop\\Act23\\web_act23_sweapi\\sweapi\\sweapi.csproj",
       "packagesPath": "C:\\Users\\jon10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jon10\\Desktop\\Act23\\sweapi\\obj\\",
+      "outputPath": "C:\\Users\\jon10\\Desktop\\Act23\\web_act23_sweapi\\sweapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jon10\\AppData\\Roaming\\NuGet\\NuGet.Config",

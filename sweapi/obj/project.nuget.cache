@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JdlLLJljD+vodeBB7tyfcY1R4K+6rdIuvJzlMBGaaOAATKXjFzVj3Lw4ml3gLFecX9ZxV9lYBYqtDuMUrx6yGA==",
+  "dgSpecHash": "Gm9cQAhRcrzdAKjNrf1yalgWGXTLyxOOz87rKKS+d183LekaT4KEKjqJk9LU+VoLrmV0OM0ygq5aT+0v1OGQaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jon10\\Desktop\\Act23\\sweapi\\sweapi.csproj",
+  "projectFilePath": "C:\\Users\\jon10\\Desktop\\Act23\\web_act23_sweapi\\sweapi\\sweapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jon10\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jon10\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",
